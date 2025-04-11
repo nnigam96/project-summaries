@@ -1,0 +1,12 @@
+{
+  "summary": "# Project Summarizer\n\nThis GitHub Action automatically generates summaries of your GitHub projects whenever their README.md files are updated. It uses OpenAI's GPT model to create concise, engaging su...",
+  "tech_stack": [
+    "python",
+    "go"
+  ],
+  "features": [
+    "Automatically triggers when README.md files are updated",
+    "Generates engaging project summaries using GPT-3.5",
+    "Provides two processing methods:"
+  ]
+}
